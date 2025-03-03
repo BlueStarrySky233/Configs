@@ -1,6 +1,33 @@
 {
-   "River.Xiao":{
-      "ban":false,
-      "restrict":80
-   }
-}
+    "Andy332.Zhang": {
+        "verified": true
+    },
+    "Tony,Yan": {
+        "verified": true
+    },
+    "Harry.Liao": {
+        "verified": true
+    },
+    "Simon.Wan": {
+        "verified": true
+    },
+    "Wilson.Zhang": {
+        "verified": true
+    },
+    "Charles.Chu": {
+        "verified": true
+    },
+    "Thomas307.Wang": {
+        "verified": true
+    },
+    "Will.Wang": {
+        "verified": true
+    },
+    "Sam.Li": {
+        "verified": true
+    },
+    "Carson.Du": {
+        "verified": true
+    }
+ }
+ 
