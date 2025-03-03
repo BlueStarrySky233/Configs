@@ -1,6 +1,6 @@
 {
    "River.Xiao":{
       "ban":false,
-      "restrict":true
+      "restrict":80
    }
 }
