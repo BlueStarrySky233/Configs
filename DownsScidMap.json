@@ -1,82 +1,102 @@
 [
-    {
-        "scid": "lzRGd17b4A/iwSQHzz638w==pU6790gT0G3meYBWbY+xBQ==",
-        "value": "1"
-    },
-    {
-        "scid": "UiHbiTBpHZc/AeqD2dFfSQ==qLGw19krW5dX3cNAsSbf1Q==",
-        "value": "9"
-    },
-    {
-        "scid": "KWyNvci+AKjJ7tBuwF/56Q==DsGcN+UgTavEW8L9bAjJxQ==",
-        "value": "8"
-    },
-    {
-        "scid": "+7BDbh8RU+CJCY5L71yEvQ==ZFmlEkUv8dkfkTQci2cbVA==",
-        "value": "64"
-    },
-    {
-        "scid": "d1XPtDJr32XAAPCqNbZaJQ==KkUj514BwuykwAz8YzbfeQ==",
-        "value": "28"
-    },
-    {
-        "scid": "goDfHKjesM7CrICgfPwiTQ==OU+Nf9ZQ5V/mx+y0g6jLFg==",
-        "value": "3"
-    },
-    {
-        "scid": "ebOlIYuhXA/ZO925Qdy5NA==2r/b1hVr7Z7W0dQcuZaT2w==",
-        "value": "2"
-    },
-    {
-        "scid": "SqluLqqQeym7pJquhMIGPg==gY1sRKAoBHdDr2W012QPdg==",
-        "value": "5"
-    },
-    {
-        "scid": "K7pVX2oOw3m2MesFLcDq4w==WIYQb+zZ02uuasGIQTaYnA==",
-        "value": true
-    },
-    {
-        "scid": "6P2trvaqpfaadEAxcRsr9A==/QxDCzqo+UfGFPmIA87npw==",
-        "value": 2
-    },
-    {
-        "scid": "bYT16xDvJz8wo6G1Klwxgw==z+OW5tvoItWjlbSOTGaYnQ==",
-        "value": true
-    },
-    {
-        "scid": "PMqpsFQ0rhCvoHPlVlbOeA==aW5Dra3gYzcmF1buwbgLAg==",
-        "value": true
-    },
-    {
-        "scid": "Qq61+8PfOCThc0/q1asraA==jmXAIoIVOvy1Nw7RgNbsmQ==",
-        "value": true
-    },
-    {
-        "scid": "qXztq/An6NqQNDgGAAc7Cg==O2qXwBzWPghcZx/doabxJQ==",
-        "value": true
-    },
-    {
-        "scid": "j9R0OdB1yYCREu5NOGhokg==VS3fPKcIbU8Fymks4Uzxlw==",
-        "value": true
-    },
-    {
-        "scid": "Ks4KeaK7egXh8vPGhUz9Qw==eiIfTZvYhR38aKvXFwj5dA==",
-        "value": 2
-    },
-    {
-        "scid": "kw4AAb6cdX61/Mrl4kmMaQ==0nWr1ejj1bxm5Ufl43Djtg==",
-        "value": true
-    },
-    {
-        "scid": "ielOHW8K7SSEcEAL4axvCg==1PelhPn5XA7B8gkbTDUC1A==",
-        "value": 4
-    },
-    {
-        "scid": "msxPHGmHxKzlmQCKkEyJYQ==d4q8f5oZRp/bs2/rrEY1ow==",
-        "value": "<"
-    },
-    {
-        "scid": "5RoNH6Ke2z4bu6xUWQVX9g==cOFBWqhvTq+GRmpQ9XKzBg==",
-        "value": 4
-    }
+  {
+    "scid": "lzRGd17b4A/iwSQHzz638w==pU6790gT0G3meYBWbY+xBQ==",
+    "value": "1"
+  },
+  {
+    "scid": "UiHbiTBpHZc/AeqD2dFfSQ==qLGw19krW5dX3cNAsSbf1Q==",
+    "value": "9"
+  },
+  {
+    "scid": "KWyNvci+AKjJ7tBuwF/56Q==DsGcN+UgTavEW8L9bAjJxQ==",
+    "value": "8"
+  },
+  {
+    "scid": "+7BDbh8RU+CJCY5L71yEvQ==ZFmlEkUv8dkfkTQci2cbVA==",
+    "value": "64"
+  },
+  {
+    "scid": "d1XPtDJr32XAAPCqNbZaJQ==KkUj514BwuykwAz8YzbfeQ==",
+    "value": "28"
+  },
+  {
+    "scid": "goDfHKjesM7CrICgfPwiTQ==OU+Nf9ZQ5V/mx+y0g6jLFg==",
+    "value": "3"
+  },
+  {
+    "scid": "ebOlIYuhXA/ZO925Qdy5NA==2r/b1hVr7Z7W0dQcuZaT2w==",
+    "value": "2"
+  },
+  {
+    "scid": "SqluLqqQeym7pJquhMIGPg==gY1sRKAoBHdDr2W012QPdg==",
+    "value": "5"
+  },
+  {
+    "scid": "K7pVX2oOw3m2MesFLcDq4w==WIYQb+zZ02uuasGIQTaYnA==",
+    "value": true
+  },
+  {
+    "scid": "6P2trvaqpfaadEAxcRsr9A==/QxDCzqo+UfGFPmIA87npw==",
+    "value": 2
+  },
+  {
+    "scid": "bYT16xDvJz8wo6G1Klwxgw==z+OW5tvoItWjlbSOTGaYnQ==",
+    "value": true
+  },
+  {
+    "scid": "PMqpsFQ0rhCvoHPlVlbOeA==aW5Dra3gYzcmF1buwbgLAg==",
+    "value": true
+  },
+  {
+    "scid": "Qq61+8PfOCThc0/q1asraA==jmXAIoIVOvy1Nw7RgNbsmQ==",
+    "value": true
+  },
+  {
+    "scid": "qXztq/An6NqQNDgGAAc7Cg==O2qXwBzWPghcZx/doabxJQ==",
+    "value": true
+  },
+  {
+    "scid": "j9R0OdB1yYCREu5NOGhokg==VS3fPKcIbU8Fymks4Uzxlw==",
+    "value": true
+  },
+  {
+    "scid": "Ks4KeaK7egXh8vPGhUz9Qw==eiIfTZvYhR38aKvXFwj5dA==",
+    "value": 2
+  },
+  {
+    "scid": "kw4AAb6cdX61/Mrl4kmMaQ==0nWr1ejj1bxm5Ufl43Djtg==",
+    "value": true
+  },
+  {
+    "scid": "ielOHW8K7SSEcEAL4axvCg==1PelhPn5XA7B8gkbTDUC1A==",
+    "value": 4
+  },
+  {
+    "scid": "msxPHGmHxKzlmQCKkEyJYQ==d4q8f5oZRp/bs2/rrEY1ow==",
+    "value": "<"
+  },
+  {
+    "scid": "5RoNH6Ke2z4bu6xUWQVX9g==cOFBWqhvTq+GRmpQ9XKzBg==",
+    "value": 4
+  },
+  {
+    "scid": "XxAH66+FOumuAW1enmfkKQ==6tkUnMOxcf69A563v2zeVw==",
+    "value": "0.2"
+  },
+  {
+    "scid": "20RZgqzYBaanMUq5RJ3gWQ==XPD+SZBg3l8wCCk+SQlDkw==",
+    "value": 1
+  },
+  {
+    "scid": "VVee7sEf47RONrej6oZ/Hw==sW90moASclsKr3vvvqQ3QQ==",
+    "value": "B or higher"
+  },
+  {
+    "scid": "nb4dVSg/U6+iGHI5ECfzCw==hH3fvEn/BOW+ozhdY3Dhpw==",
+    "value": "C or lower"
+  },
+  {
+    "scid": "uJhOfySBRLtQfHVfqML4YA==C8TAUSxC4lBrJMB0opUz3Q==",
+    "value": true
+  }
 ]
